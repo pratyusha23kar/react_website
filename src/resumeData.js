@@ -24,60 +24,60 @@ let resumeData = {
     // },
   ],
   aboutme:
-    "An inquisitive graduate student pursuing MS in Information Systems at Northeastern University with an emphasis on Object Oriented Programming, Web Developement & Design, Program Structure & Algorithm. I am an experienced Software Developer who enjoys being challenged and engaging with projects that require to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important for self growth.",
-  // address: "USA",
-  // website: "https://rbhatia46.github.io",
-  // education: [
-  //   {
-  //     UniversityName: "Northeastern University, Boston",
-  //     specialization: "Master of Science in Information Systems",
-  //     MonthOfPassing: "Dec",
-  //     YearOfPassing: "2020",
-  //     // Achievements: "Some Achievements",
-  //   },
-  //   {
-  //     // UniversityName: "Some University",
-  //     specialization: "Relevant Courses:",
-  //     MonthOfPassing:
-  //       "Application Engineering Developement, Database Management & Design, Web Tools & Technology, Web Design & User Experiences, Program Structure & Algorithms",
-  //     // YearOfPassing: "2018",
-  //     Achievements: "Some Achievements",
-  //   },
-  //   {
-  //     UniversityName: "Siksha 'O' Anusandhan University, India",
-  //     specialization:
-  //       "Master of Technology in Communication Systems Engineering",
-  //     MonthOfPassing: "Aug",
-  //     YearOfPassing: "2013",
-  //   },
-  //   {
-  //     UniversityName: "Biju Patnaik University of Technology, India",
-  //     specialization:
-  //       "Bachelor of Technology in Electronics & Communication Engineering",
-  //     MonthOfPassing: "Aug",
-  //     YearOfPassing: "2011",
-  //   },
-  // ],
-  // work: [
-  //   {
-  //     CompanyName: "ORIG3N",
-  //     specialization: "Software Developer",
-  //     MonthOfLeaving: "Jan 2020 -",
-  //     YearOfLeaving: "Aug 2020",
-  //     Achievements: "Boston, USA",
-  //   },
-  //   {
-  //     CompanyName: "Best Infosystems Ltd.",
-  //     specialization: "SAP ABAP Consultant",
-  //     MonthOfLeaving: "Aug 2015 -",
-  //     YearOfLeaving: "May 2016",
-  //     Achievements: "New Delhi Area, India",
-  //     // Achievements: "Designed custom screens and containers to display the output on ALV grid control using Object Oriented programming,  Provided the Editable field to update the Shortage Material Quantity field and captured the updates Added custom Icons on ALV grid to Download & Email the PDF copy of ALV output,
-  //     //                Explored SAP Components and developed custom components, Smart Form depending on the requirements. Also used CRM_ORDER_READ and CRM_ORDER_MAINTAIN to create/update an order from back end
-  //     //                Was Responsible for the analysis, design, coding and testing of ABAP custom reports using ALV ABAP List Viewer code, providing detailed, versatile output in a minimum time frame
-  //     //                Developed test techniques and prototypes for data mapping, data extraction, transformation, cleansing and loading data into SAP using SAP BADI, LSMW, BAPI, BDC, IDOC and ABAP conversion programs",
-  //   },
-  // ],
+    "An inquisitive graduate student from Northeastern University, pursuing Master's degree in Information Systems with 1.5 yreas of professional experiences in information technology sector",
+  address: "USA",
+  website: "https://rbhatia46.github.io",
+  education: [
+    {
+      UniversityName: "Northeastern University, Boston",
+      specialization: "Master of Science in Information Systems",
+      MonthOfPassing: "Dec",
+      YearOfPassing: "2020",
+      // Achievements: "Some Achievements",
+    },
+    {
+      // UniversityName: "Some University",
+      specialization: "Relevant Courses:",
+      MonthOfPassing:
+        "Application Engineering Developement, Database Management & Design, Web Tools & Technology, Web Design & User Experiences, Program Structure & Algorithms",
+      // YearOfPassing: "2018",
+      Achievements: "Some Achievements",
+    },
+    {
+      UniversityName: "Siksha 'O' Anusandhan University, India",
+      specialization:
+        "Master of Technology in Communication Systems Engineering",
+      MonthOfPassing: "Aug",
+      YearOfPassing: "2013",
+    },
+    {
+      UniversityName: "Biju Patnaik University of Technology, India",
+      specialization:
+        "Bachelor of Technology in Electronics & Communication Engineering",
+      MonthOfPassing: "Aug",
+      YearOfPassing: "2011",
+    },
+  ],
+  work: [
+    {
+      CompanyName: "ORIG3N",
+      specialization: "Software Developer",
+      MonthOfLeaving: "Jan 2020 -",
+      YearOfLeaving: "Aug 2020",
+      Achievements: "Boston, USA",
+    },
+    {
+      CompanyName: "Best Infosystems Ltd.",
+      specialization: "SAP ABAP Consultant",
+      MonthOfLeaving: "Aug 2015 -",
+      YearOfLeaving: "May 2016",
+      Achievements: "New Delhi Area, India",
+      // Achievements: "Designed custom screens and containers to display the output on ALV grid control using Object Oriented programming,  Provided the Editable field to update the Shortage Material Quantity field and captured the updates Added custom Icons on ALV grid to Download & Email the PDF copy of ALV output,
+      //                Explored SAP Components and developed custom components, Smart Form depending on the requirements. Also used CRM_ORDER_READ and CRM_ORDER_MAINTAIN to create/update an order from back end
+      //                Was Responsible for the analysis, design, coding and testing of ABAP custom reports using ALV ABAP List Viewer code, providing detailed, versatile output in a minimum time frame
+      //                Developed test techniques and prototypes for data mapping, data extraction, transformation, cleansing and loading data into SAP using SAP BADI, LSMW, BAPI, BDC, IDOC and ABAP conversion programs",
+    },
+  ],
   skillsDescription: "Your skills here",
   skills: [
     {
@@ -102,7 +102,6 @@ let resumeData = {
       skillname: "JavaScript",
     },
   ],
-
   portfolio: [
     {
       name: "project1",
