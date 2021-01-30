@@ -1,16 +1,4 @@
-React-Portfolio is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial
 
-<a href="https://tracking.gitads.io/?repo=React-Portfolio"><img src="https://images.gitads.io/React-Portfolio" alt="GitAds"/></a>
-
-
-[![HitCount](http://hits.dwyl.io/rbhatia46/React-Portfolio.svg)](http://hits.dwyl.io/rbhatia46/React-Portfolio)
-![Star this repository](https://img.shields.io/github/stars/rbhatia46/React-Portfolio?style=social)
-
-
-A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
-
-## Preview
-![Preview](https://image.ibb.co/e5uBf0/Capture.png)
 
 ## How to use
 1. Clone/Download the repo.
